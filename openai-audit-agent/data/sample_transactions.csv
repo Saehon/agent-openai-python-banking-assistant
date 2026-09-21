@@ -1,0 +1,9 @@
+transaction_id,date,vendor,amount,currency,account,preparer,approver,invoice_id
+TX001,2026-09-01,Northstar Cloud,12450.00,USD,Software,Sara,David,INV-1001
+TX002,2026-09-02,Northstar Cloud,12450.00,USD,Software,Sara,David,INV-1001
+TX003,2026-09-05,Vertex Advisory,50000.00,USD,Consulting,Mikael,,INV-2040
+TX004,2026-09-07,Atlas Components,8750.25,USD,COGS,Noah,Noah,INV-7782
+TX005,2026-09-08,Blue River Logistics,980.50,USD,Freight,Anna,Liam,INV-4401
+TX006,2026-09-12,Orion Data Systems,125000.00,USD,Data Services,Emma,Lucas,INV-9902
+TX007,2026-09-14,Metro Office Supply,2000.00,USD,Office Expense,Olivia,Lucas,INV-3141
+TX008,2026-09-15,Northstar Cloud,13210.00,USD,Software,Sara,David,INV-1014
